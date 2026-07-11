@@ -274,11 +274,11 @@ My goal is to build high-quality embedded systems while continuously improving m
 
 # 🌍 Languages
 
-- 🇬🇧 English
-- 🇮🇳 Kannada
-- 🇮🇳 Telugu
-- 🇮🇳 Hindi
-- 🇮🇳 Tamil
+- English
+- Kannada
+- Telugu
+- Hindi
+- Tamil
 
 # 🌐 Connect With Me
 
