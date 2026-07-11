@@ -92,24 +92,19 @@ I'm currently seeking opportunities where I can contribute to **Embedded Systems
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shashikiranam&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashikiranam&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-</div>
-
-<div align="center">
-
 <img width="75%" src="https://streak-stats.demolab.com?user=shashikiranam&theme=tokyonight&hide_border=true"/>
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shashikiranam&theme=tokyonight"/>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shashikiranam&theme=tokyonight"/>
 
 </div>
 
+---
 ---
 ## 🚀 Core Expertise
 
