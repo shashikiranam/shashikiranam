@@ -1,31 +1,38 @@
 <div align="center">
 
-# Hi there 👋, I'm Shashi Kiran A M
+# Hi 👋 I'm Shashi Kiran A M
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1500&duration=3000&color=00C2FF&center=true&vCenter=true&width=900&lines=Embedded+Systems;Embedded+Firmware;Automotive Electronics;STM32+%E2%80%A2+NXP+i.MX+8M+Plus;Embedded+Linux;Real-Time+Embedded+Systems;Open+to+Embedded+Systems+Roles" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1500&color=00C2FF&center=true&vCenter=true&width=900&lines=Embedded+Systems;Embedded+Firmware;Automotive+Electronics;STM32+%7C+NXP+i.MX+8M+Plus;Embedded+Linux;Real-Time+Embedded+Systems;Open+to+Embedded+Systems+Roles" />
 
-**Embedded Systems • Embedded Firmware • Automotive Electronics**
+### Embedded Systems • Embedded Firmware • Automotive Electronics
 
-📍 Bengaluru, India
+**Open to Entry-Level Embedded Systems & Automotive Embedded Software Opportunities**
 
 </div>
 
 ---
+
 ## 👨‍💻 About Me
 
-I'm an aspiring **Embedded Systems** professional with a strong foundation in embedded firmware development, gained through an **M.Tech in Automotive Electronics** and hands-on embedded systems training.
+I'm an aspiring **Embedded Systems Engineer** with a strong foundation in **Embedded C**, firmware development, and hardware–software integration.
 
-I enjoy developing firmware for microcontrollers, interfacing hardware peripherals, and building reliable embedded solutions using platforms such as **STM32**, **NXP i.MX 8M Plus**, **ESP32**, and **PIC16F877A**.
+I completed an **M.Tech in Automotive Electronics** and further strengthened my practical embedded development skills through hands-on industry-oriented training.
 
-I'm currently seeking opportunities where I can contribute to **Embedded Systems**, **Embedded Firmware**, **Automotive Embedded Software**, and **Embedded Linux** development while continuing to grow through real-world engineering challenges.
+I enjoy building firmware for microcontrollers, interfacing peripherals, debugging embedded systems, and developing reliable real-time applications using platforms like **STM32**, **NXP i.MX 8M Plus**, **ESP32**, and **PIC16F877A**.
+
+I'm currently seeking opportunities where I can contribute to **Embedded Systems**, **Embedded Firmware**, **Automotive Embedded Software**, and **Embedded Linux** development while continuously improving my technical skills.
 
 ---
 ## 🛠️ Technical Skills
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 💻 Programming Languages
 - Embedded C
 - C
-- C++ (Basics)
+- C++ (Fundamentals)
 - Python
 
 ### 🔧 Microcontrollers & Development Boards
@@ -41,8 +48,13 @@ I'm currently seeking opportunities where I can contribute to **Embedded Systems
 - I²C
 - CAN
 
+</td>
+
+<td width="50%" valign="top">
+
 ### ⚙️ Embedded Systems
 - Bare-Metal Programming
+- Register-Level Programming
 - GPIO
 - ADC
 - PWM
@@ -51,12 +63,13 @@ I'm currently seeking opportunities where I can contribute to **Embedded Systems
 - DMA
 - Sensor Interfacing
 - LCD Interfacing
+- Firmware Development
 - Firmware Debugging
 - Hardware–Software Integration
 
 ### 🐧 Operating Systems
 - Embedded Linux
-- Linux Shell
+- Linux Command Line
 - FreeRTOS
 
 ### 🧰 Development Tools
@@ -65,10 +78,14 @@ I'm currently seeking opportunities where I can contribute to **Embedded Systems
 - MPLAB X IDE
 - VS Code
 - Git & GitHub
+- PuTTY
 - Proteus
 - MATLAB
 - LabVIEW
-- PuTTY
+
+</td>
+</tr>
+</table>
 
 ---
 ## 📊 GitHub Analytics
@@ -83,20 +100,38 @@ I'm currently seeking opportunities where I can contribute to **Embedded Systems
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=shashikiranam&theme=tokyonight&hide_border=true"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=shashikiranam&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shashikiranam&theme=tokyonight"/>
 
 </div>
 
 ---
-## 🏆 Highlights
+## 🚀 Core Expertise
 
-- 🎓 M.Tech in Automotive Electronics from **Vellore Institute of Technology (VIT), Vellore**
+- 🔹 Embedded Firmware Development using **Embedded C**
+- 🔹 Bare-Metal & Register-Level Programming
+- 🔹 Firmware Debugging and Hardware–Software Integration
+- 🔹 STM32, NXP i.MX 8M Plus, ESP32, PIC16F877A & Arduino
+- 🔹 Communication Protocols: UART, SPI, I²C and CAN
+- 🔹 Peripheral Programming: GPIO, ADC, PWM, Timers, Interrupts & DMA
+- 🔹 Sensor Interfacing and Real-Time Data Acquisition
+- 🔹 Embedded Linux Fundamentals & Linux Command Line
+- 🔹 Real-Time Embedded Systems using FreeRTOS
+- 🔹 Automotive Embedded Systems and ECU Development
+
+---
+
+## 🏆 Achievements
+
 - 🏆 Indian Patent Published for **Machine Learning-Based Battery Temperature Fault Detection System**
-- ⚙️ Hands-on experience with **STM32**, **NXP i.MX 8M Plus EVK**, **ESP32**, **PIC16F877A**, and **Arduino**
-- 💻 Developed firmware using **Embedded C**, including **Bare-Metal** and **Register-Level Programming**
-- 📡 Experience with **UART**, **SPI**, **I²C**, and **CAN** communication protocols
-- 🐧 Worked with **Embedded Linux**, **FreeRTOS**, and hardware peripheral interfacing
-- 🚗 Built embedded applications focused on **Automotive Electronics**, **Vehicle Monitoring**, **Battery Monitoring**, and **Real-Time Embedded Systems**
+- 🎓 M.Tech in Automotive Electronics – Vellore Institute of Technology
+- 💻 Built multiple Embedded Systems and Automotive Electronics projects using STM32, NXP i.MX 8M Plus, ESP32 and PIC16F877A
+- 🚀 Open to opportunities in **Embedded Systems**, **Embedded Firmware**, **Automotive Embedded Software**, and **Embedded Linux**
 
 ---
 ## 🌐 Connect With Me
@@ -104,7 +139,7 @@ I'm currently seeking opportunities where I can contribute to **Embedded Systems
 <div align="center">
 
 <a href="mailto:shashi.kiran2468@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/shashi-kiran-a-m">
@@ -121,12 +156,19 @@ I'm currently seeking opportunities where I can contribute to **Embedded Systems
 
 <div align="center">
 
-### 💼 Open to opportunities in
+### 💼 Open to Entry-Level Opportunities in
 
 **Embedded Systems • Embedded Firmware • Automotive Embedded Software • Embedded Linux**
 
-If you'd like to discuss opportunities, projects, or collaboration, feel free to connect.
+Feel free to connect for opportunities, technical discussions, or collaborations.
 
 </div>
 
 ---
+<div align="center">
+
+⭐ Thank you for visiting my GitHub profile!
+
+<img src="https://komarev.com/ghpvc/?username=shashikiranam&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
+
+</div>
