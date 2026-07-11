@@ -16,13 +16,15 @@
 
 I'm an aspiring **Embedded Systems Engineer** with a strong foundation in **Embedded C**, firmware development, and hardware–software integration.
 
-I completed an **M.Tech in Automotive Electronics** and further strengthened my practical embedded development skills through hands-on industry-oriented training.
+I hold an **M.Tech in Automotive Electronics** and have completed **hands-on Embedded Systems training**, gaining practical experience in firmware development, hardware interfacing, and real-time embedded applications.
 
-I enjoy building firmware for microcontrollers, interfacing peripherals, debugging embedded systems, and developing reliable real-time applications using platforms like **STM32**, **NXP i.MX 8M Plus**, **ESP32**, and **PIC16F877A**.
+My interests include developing firmware for microcontrollers, interfacing peripherals, debugging embedded systems, and building reliable real-time applications using platforms such as **STM32**, **NXP i.MX 8M Plus**, **ESP32**, and **PIC16F877A**.
 
-I'm currently seeking opportunities where I can contribute to **Embedded Systems**, **Embedded Firmware**, **Automotive Embedded Software**, and **Embedded Linux** development while continuously improving my technical skills.
+I have practical experience working with **GPIO, ADC, PWM, Timers, UART, SPI, I²C, CAN, Embedded Linux,** and **FreeRTOS**, along with firmware debugging and hardware–software integration.
 
+I'm currently seeking **Entry-Level Embedded Systems**, **Embedded Firmware**, **Automotive Embedded Software**, and **Embedded Linux** opportunities where I can contribute while continuously expanding my technical skills.
 ---
+
 ## 🛠️ Technical Skills
 
 <table>
