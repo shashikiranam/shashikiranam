@@ -4,7 +4,7 @@
 
 ### M.Tech in Automotive Electronics • Embedded Systems • Embedded Firmware
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=950&lines=Bare-Metal+Firmware+Development;Embedded+Systems;Embedded+Firmware;STM32+%E2%80%A2+NXP+i.MX+8M+Plus;Embedded+Linux;GPIO+%E2%80%A2+ADC+%E2%80%A2+PWM+%E2%80%A2+Timers;UART+%E2%80%A2+SPI+%E2%80%A2+I%C2%B2C+%E2%80%A2+CAN;Real-Time+Embedded+Systems;Building+Reliable+Embedded+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1500&duration=3000&color=00C2FF&center=true&vCenter=true&width=900&lines=M.Tech+in+Automotive+Electronics;Embedded+Systems;Embedded+Firmware;STM32+%E2%80%A2+NXP+i.MX+8M+Plus;Embedded+Linux;Automotive+Embedded+Systems;Open+to+Embedded+%26+Automotive+Roles" />
 
 <br>
 
